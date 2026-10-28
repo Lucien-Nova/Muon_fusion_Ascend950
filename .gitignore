@@ -1,0 +1,7 @@
+build/
+dist/
+*.egg-info/
+muon_ascend950/_C*.so
+__pycache__/
+.pytest_cache/
+
